@@ -1,2 +1,3 @@
 # git-testing
-Making troubles right now!
+
+A test repository.
