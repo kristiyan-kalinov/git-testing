@@ -1,3 +1,1 @@
-# git-testing
-
-A test repository.
+Deleted!
