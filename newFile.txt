@@ -1,0 +1,4 @@
+In this file there will be a test report.
+
+#1 Report:
+Everything is fine :)
